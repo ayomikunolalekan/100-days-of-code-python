@@ -1,0 +1,3 @@
+## Project Overview  
+This project is a lyrics game where you have to guess the missing word(s) in the provided lyrics.  
+The program only offers one line of a song lyrics at the moment. It also uses a **while True** loop to give the user a chance to try again until they get it, after which the program breaks out of the loop and then prints out a congratulatory message to them where it also shows them the number of attempts it took before they could guess the lyric correctly.
